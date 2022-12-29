@@ -12,14 +12,14 @@
 <a href="https://instagram.com/baranyum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baranyum" height="30" width="40" /></a>
 
 
-
+## Status
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=hakanbaran&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hakanbaran&theme=dark)](https://git.io/streak-stats)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 
 
