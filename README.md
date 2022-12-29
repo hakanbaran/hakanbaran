@@ -9,7 +9,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hakanbaran&theme=dark)](https://git.io/streak-stats)
 
-
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
