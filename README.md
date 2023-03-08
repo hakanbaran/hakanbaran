@@ -14,10 +14,12 @@
 
 ### --IMDB CLONE--
 
+<img src="https://github.com/hakanbaran/HDMovieHell/blob/main/IMDB%20Clone%20Photo/imdb.png" alt="alt text" width="200" height="140">
+
 
 ![IMDB Clone Readme](https://user-images.githubusercontent.com/104249732/223873657-6bd276b4-f8b2-4e11-8c36-8ed456268c41.png)
 
-[Repo](https://github.com/hakanbaran/HDMovieHell)
+[App Repo](https://github.com/hakanbaran/HDMovieHell)
 
 
 ## Status
