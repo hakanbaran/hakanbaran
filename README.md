@@ -14,7 +14,7 @@
 
 ### --IMDB CLONE--
 
-<img src="https://github.com/hakanbaran/HDMovieHell/blob/main/IMDB%20Clone%20Photo/imdb.png" alt="alt text" width="160" height="112">
+<img src="https://github.com/hakanbaran/HDMovieHell/blob/main/IMDB%20Clone%20Photo/imdb.png" alt="alt text" width="160" height="115">
 
 
 ![IMDB Clone Readme](https://user-images.githubusercontent.com/104249732/223873657-6bd276b4-f8b2-4e11-8c36-8ed456268c41.png)
@@ -23,11 +23,11 @@
 
 ### --SPOTIFY CLONE--
 
+<img src="https://github.com/hakanbaran/Spotify-Clone/blob/main/Photo/appstore.png" alt="alt text" width="160" height="160">
+
 ![SpotifyClone Readme](https://github.com/hakanbaran/hakanbaran/assets/104249732/6242b47b-95e7-42c6-aefc-70b4f8bce832)
 
-<img src="[https://github.com/hakanbaran/HDMovieHell/blob/main/IMDB%20Clone%20Photo/imdb.png](https://github.com/hakanbaran/Spotify-Clone/blob/main/Spotify-Clone/Resources/Assets.xcassets/logo.imageset/appstore.png)" alt="alt text" width="160" height="112">
-
-https://github.com/hakanbaran/Spotify-Clone/blob/main/Spotify-Clone/Resources/Assets.xcassets/logo.imageset/appstore.png
+[App Repo](https://github.com/hakanbaran/Spotify-Clone)
 
 ## Status
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hakanbaran&theme=dark)](https://git.io/streak-stats)
