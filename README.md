@@ -21,6 +21,11 @@
 
 [App Repo](https://github.com/hakanbaran/HDMovieHell)
 
+### --SPOTIFY CLONE--
+
+![SpotifyClone Readme](https://github.com/hakanbaran/hakanbaran/assets/104249732/6242b47b-95e7-42c6-aefc-70b4f8bce832)
+
+
 
 ## Status
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hakanbaran&theme=dark)](https://git.io/streak-stats)
