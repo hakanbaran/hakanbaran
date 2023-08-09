@@ -12,6 +12,22 @@
 
 ## My APPS
 
+### --TALK TO ME--
+
+<img src="https://github.com/hakanbaran/MessengerSwift/blob/main/Icon/TTMIcon2.png" alt="alt text" width="160" height="160">
+
+![TalkToMe Readme](https://github.com/hakanbaran/hakanbaran/assets/104249732/3d8e193a-65b2-4516-a016-f651dcf6fac0)
+
+[App Repo](https://github.com/hakanbaran/MessengerSwift)
+
+### --SPOTIFY CLONE--
+
+<img src="https://github.com/hakanbaran/Spotify-Clone/blob/main/Photo/appstore.png" alt="alt text" width="160" height="160">
+
+![SpotifyClone Readme](https://github.com/hakanbaran/hakanbaran/assets/104249732/6242b47b-95e7-42c6-aefc-70b4f8bce832)
+
+[App Repo](https://github.com/hakanbaran/Spotify-Clone)
+
 ### --IMDB CLONE--
 
 <img src="https://github.com/hakanbaran/HDMovieHell/blob/main/IMDB%20Clone%20Photo/imdb.png" alt="alt text" width="160" height="115">
@@ -21,13 +37,7 @@
 
 [App Repo](https://github.com/hakanbaran/HDMovieHell)
 
-### --SPOTIFY CLONE--
 
-<img src="https://github.com/hakanbaran/Spotify-Clone/blob/main/Photo/appstore.png" alt="alt text" width="160" height="160">
-
-![SpotifyClone Readme](https://github.com/hakanbaran/hakanbaran/assets/104249732/6242b47b-95e7-42c6-aefc-70b4f8bce832)
-
-[App Repo](https://github.com/hakanbaran/Spotify-Clone)
 
 ## Status
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hakanbaran&theme=dark)](https://git.io/streak-stats)
