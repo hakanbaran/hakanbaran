@@ -14,6 +14,14 @@
 
 ### --TALK TO ME--
 
+<img src="https://github.com/hakanbaran/OburunRotasi/blob/main/OburunRotasi/Resources/Assets.xcassets/OburunRotas%C4%B1%201.imageset/OburunRotas%C4%B1.png" alt="alt text" width="160" height="160">
+
+![Readme](https://github.com/hakanbaran/hakanbaran/assets/104249732/ad5f8204-175b-40a4-abc1-d88002e22d1f)
+
+[App Repo](https://github.com/hakanbaran/OburunRotasi)
+
+### --TALK TO ME--
+
 <img src="https://github.com/hakanbaran/MessengerSwift/blob/main/Icon/TTMIcon2.png" alt="alt text" width="160" height="160">
 
 ![TalkToMe Readme](https://github.com/hakanbaran/hakanbaran/assets/104249732/3d8e193a-65b2-4516-a016-f651dcf6fac0)
