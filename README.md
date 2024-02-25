@@ -12,7 +12,7 @@
 
 ## My APPS
 
-### --TALK TO ME--
+### --OBURUN ROTASI--
 
 <img src="https://github.com/hakanbaran/OburunRotasi/blob/main/OburunRotasi/Resources/Assets.xcassets/OburunRotas%C4%B1%201.imageset/OburunRotas%C4%B1.png" alt="alt text" width="160" height="160">
 
